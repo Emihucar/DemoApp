@@ -44,3 +44,6 @@ Este proyecto tiene como objetivo la automatización de pruebas para la aplicaci
 
 4. **Contribuciones**:
    - Si deseas contribuir al proyecto, siéntete libre de abrir un `issue` o enviar un `pull request`. Asegúrate de seguir las mejores prácticas de codificación.
+## Capturas de Pantalla
+
+![DEMO APP](6ada6a6912570cdf848cb17a15d134def79f2977154fedd4010f09fb79d188d3.png)
